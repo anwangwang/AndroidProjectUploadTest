@@ -1,0 +1,2 @@
+# AndroidProjectUploadTest
+测试AS上传android项目到GitHub上时需要忽略的文件
